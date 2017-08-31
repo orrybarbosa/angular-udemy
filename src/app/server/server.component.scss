@@ -1,0 +1,10 @@
+p {
+	color: grey;
+}
+span {
+	color: blue;
+
+	&:last-child {
+		color: red;
+	}
+}
